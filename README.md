@@ -6,8 +6,8 @@ Turn ordinary travel photos into beautiful AI-powered travel postcards with **Go
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/eershr/ai-postcard-studio.git
-cd ai-postcard-studio
+git clone https://github.com/eershr/ai-travel-postcard-studio.git
+cd ai-travel-postcard-studio
 ```
 
 ### 2. Install dependencies
